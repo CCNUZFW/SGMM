@@ -3,4 +3,4 @@ Source Code for the manuscript "Audio Source Recording Device Recognition Based 
 
 ## MFCC Extraction: Matlab 
 ## SGMM Extraction: Matlab 
-## Deep Representation Learning and Forensics: Matlab 
+## Deep Representation Learning and Forensics: Pytorch 
